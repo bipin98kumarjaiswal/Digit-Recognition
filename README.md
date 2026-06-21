@@ -83,10 +83,10 @@ The best model from each fold was saved and used during inference.
 ```text
 Spoken-Digit-Recognition/
 │
-├── Spoken_Digit_Recognition.ipynb
-├── Project_Report.pdf
-├── Project_Presentation.pdf
-└── README.md
+├── Presentation.pdf                  # Project presentation
+├── README.md                         # Project documentation
+├── Report_DR.pdf                     # Detailed project report
+└── Spoken_Digit_Recognition.ipynb    # Complete training and inference pipeline
 ```
 
 
